@@ -18,4 +18,4 @@
 - [x] Start Tutorial 27.01.23
 - [x] Initialize Repo: (git@github.com:jetscholar/python-web.git)
 - [x] Setup Virtual Env
-- [ ] Stopped at minute 7:00
+- [ ] Stopped at 417 [7:00](https://youtu.be/sdLCaXOhSWQ?t=417)
