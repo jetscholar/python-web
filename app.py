@@ -15,6 +15,10 @@ def login():
 def register():
     return render_template("register.html")
 
+@app.route("/layout")
+def layout():
+    return render_template("layout.html")
+
 @app.route("/logout")
 def logout():
     return render_template("home.html")
